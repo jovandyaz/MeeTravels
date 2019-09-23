@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://bit.ly/2m1nkly");
+    background-color: transparent;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    height: 400px;  /* The height is 400 pixels */
+    width: 100%;  /* The width is the width of the web page */
+}
+
+.pic{
+    opacity: 0.75;
+    border-radius: 10%;
+}
+
+.pic:hover{
+    opacity: 1.0;
+}
